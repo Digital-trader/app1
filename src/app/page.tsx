@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div>home page</div>;
+  return <div className="h-[550px] text-slate-300">home page</div>;
 }
